@@ -1,24 +1,32 @@
-# Book Recommender
-
-
-<video src="https://user-images.githubusercontent.com/qharo/book_recommender/main/Book_Recommender_Exp.mp4" controls="controls" style="max-width: 730px;">
-</video>
-
-https://github.com/qharo/book_recommender/blob/main/Book_Recommender_Exp.mp4
-https://github.com/qharo/book_recommender/blob/4d6fbf2e66324cfbaadbc8e8846470136491670a/Book_Recommender_Exp.mp4
-
-https://github.com/qharo/book_recommender/blob/487aa12934f0940a0a6fba5f3f70e47322668043/Book_Recommender_Exp.mov
-
-
-https://user-iamges.githubusercontent.com/qharo/book_recommender/487aa12934f0940a0a6fba5f3f70e47322668043/Book_Recommender_Exp.mov
-
-
-https://user-images.githubusercontent.com/qharo/book_recommender/4d6fbf2e66324cfbaadbc8e8846470136491670a/Book_Recommender_Exp.mp4
-
-https://user-images.githubusercontent.com/qharo/book_recommender/blob/main/Book_Recommender_Exp.mp4
-
-I use the embedding model to create a simple book recommender
-
+# 📚 Book Recommender
 
 https://github.com/user-attachments/assets/9d3ced06-ac5e-44a7-87d1-e2483d84cebe
 
+Built with Streamlit and an embedding model, it allows users to find their next read by describing what they're looking for or by selecting books they've previously enjoyed. The system explains recommendations, displays book covers and summaries, and provides links to additional information. It's containerized with Docker and configured for deployment on Fly.io. The application uses semantic vector representations to find similar books and features an intuitive, responsive interface.
+
+## Local Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/book-recommender.git
+   cd book-recommender
+   ```
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Run the application:
+   ```bash
+   streamlit run book_recommender.py
+   ```
+
+## Docker Deployment
+
+You can also run the application using Docker:
+
+```bash
+docker build -t book-recommender .
+docker run -p 8501:8501 book-recommender
+```
