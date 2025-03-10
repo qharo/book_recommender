@@ -18,3 +18,7 @@ https://user-images.githubusercontent.com/qharo/book_recommender/4d6fbf2e66324cf
 https://user-images.githubusercontent.com/qharo/book_recommender/blob/main/Book_Recommender_Exp.mp4
 
 I use the embedding model to create a simple book recommender
+
+
+https://github.com/user-attachments/assets/9d3ced06-ac5e-44a7-87d1-e2483d84cebe
+
