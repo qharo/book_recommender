@@ -8,7 +8,7 @@ Built with Streamlit and an embedding model, it allows users to find their next 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/book-recommender.git
+   git clone https://github.com/qharo/book-recommender.git
    cd book-recommender
    ```
 
