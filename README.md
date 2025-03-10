@@ -5,7 +5,10 @@
 </video>
 
 https://github.com/qharo/book_recommender/blob/main/Book_Recommender_Exp.mp4
+https://github.com/qharo/book_recommender/blob/4d6fbf2e66324cfbaadbc8e8846470136491670a/Book_Recommender_Exp.mp4
 
+
+https://user-iamges.githubusercontent.com/qharo/book_recommender/blob/4d6fbf2e66324cfbaadbc8e8846470136491670a/Book_Recommender_Exp.mp4
 
 https://user-images.githubusercontent.com/qharo/book_recommender/blob/main/Book_Recommender_Exp.mp4
 
